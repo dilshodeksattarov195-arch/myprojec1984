@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadercrocess",
+        "uuid": 15377984,
+        "checksum": "ln66of"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
